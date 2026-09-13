@@ -38,7 +38,7 @@ pip install -r requirements.txt
 1. 启动程序：
 
    ```bash
-   python deespeek.py
+   python main.py
    ```
 
 2. 首次使用点右上角「设置」，填写：
