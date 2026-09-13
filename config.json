@@ -1,0 +1,9 @@
+{
+    "api_name": "",
+    "base_url": "https://api.deepseek.com",
+    "api_key": "",
+    "model": "deepseek-flash",
+    "balance": 0,
+    "used_tokens": 0,
+    "used_cost": 0.0
+}
