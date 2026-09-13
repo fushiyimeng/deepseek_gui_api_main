@@ -1,0 +1,4 @@
+PyQt5>=5.15
+openai>=1.0
+openpyxl>=3.0
+transformers>=4.30      # 可选，用于本地 token 预估
