@@ -1,0 +1,21 @@
+# 运行时生成的本地数据
+data/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# 本地 tokenizer（可选，见 README）
+deepseek_tokenizer/
+
+# 备份和临时文件
+*.bak
+*.tmp
+*_备份*.xlsx
